@@ -1,0 +1,2 @@
+# INTELIGENCIA-ARTIFICIAL-2
+Documen clases ia 2
