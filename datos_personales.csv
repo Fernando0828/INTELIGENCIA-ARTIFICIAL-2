@@ -1,0 +1,31 @@
+﻿cedula,primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,sexo,ciudad_residencia,nivel_educativo,estado_civil,personas_a_cargo,correo_empresa,telefono
+1000000001,Ana,Jose,Martinez,Lopez,2000-09-06,F,Barranquilla,Tecnologo,Union libre,4,ana1000000001@empresa.demo,3009073461
+1000000002,Carlos,Jose,Gomez,Vargas,1999-12-07,F,Bogota,Universitario,Soltero,4,carlos1000000002@empresa.demo,3001498863
+1000000003,Laura,Isabel,Martinez,Garcia,1984-06-24,M,Bogota,Especializacion,Soltero,2,laura1000000003@empresa.demo,3009756262
+1000000004,Miguel,,Hernandez,Torres,1990-02-13,F,Medellin,Tecnologo,Union libre,3,miguel1000000004@empresa.demo,3003676188
+1000000005,Sofia,Alejandro,Martinez,Garcia,1981-11-29,M,Medellin,Tecnico,Union libre,0,sofia1000000005@empresa.demo,3004295990
+1000000006,Andres,Alejandro,Gomez,Gomez,1992-12-20,M,Cali,Universitario,Casado,4,andres1000000006@empresa.demo,3008782937
+1000000007,Valentina,Jose,Hernandez,Gomez,1982-05-04,F,Barranquilla,Tecnico,Union libre,4,valentina1000000007@empresa.demo,3007526818
+1000000008,Juan,Alejandro,Vargas,Torres,2002-05-09,F,Medellin,Tecnico,Casado,0,juan1000000008@empresa.demo,3006491590
+1000000009,Camila,Alejandro,Garcia,Torres,1996-01-12,M,Bogota,Tecnologo,Casado,4,camila1000000009@empresa.demo,3007512440
+1000000010,Daniel,Jose,Garcia,Lopez,2000-03-28,M,Barranquilla,Especializacion,Casado,2,daniel1000000010@empresa.demo,3007099628
+1000000011,Mariana,Alejandro,Torres,Torres,1997-11-15,F,Barranquilla,Tecnologo,Casado,3,mariana1000000011@empresa.demo,3007555968
+1000000012,Sebastian,Fernando,Vargas,Martinez,1994-05-16,M,Bogota,Tecnologo,Casado,0,sebastian1000000012@empresa.demo,3003699015
+1000000013,Natalia,Maria,Vargas,Garcia,1994-02-28,F,Medellin,Tecnologo,Soltero,3,natalia1000000013@empresa.demo,3009837590
+1000000014,David,,Martinez,Perez,1984-09-03,M,Bogota,Tecnologo,Union libre,4,david1000000014@empresa.demo,3002172622
+1000000015,Paula,Maria,Garcia,Ramirez,1995-11-09,F,Barranquilla,Universitario,Casado,4,paula1000000015@empresa.demo,3003503771
+1000000016,Mateo,Jose,Gomez,Torres,1995-02-26,F,Bucaramanga,Especializacion,Union libre,0,mateo1000000016@empresa.demo,3004177825
+1000000017,Isabella,Isabel,Lopez,Hernandez,1993-07-02,F,Bucaramanga,Tecnico,Union libre,2,isabella1000000017@empresa.demo,3001996161
+1000000018,Felipe,,Lopez,Gomez,1989-08-11,M,Cali,Tecnico,Casado,1,felipe1000000018@empresa.demo,3005183839
+1000000019,Gabriela,Jose,Hernandez,Martinez,1980-07-21,M,Bogota,Especializacion,Soltero,0,gabriela1000000019@empresa.demo,3001666326
+1000000020,Nicolas,Isabel,Garcia,Vargas,1991-07-20,F,Bogota,Tecnico,Casado,1,nicolas1000000020@empresa.demo,3001649150
+1000000021,Juliana,Maria,Garcia,Ramirez,2004-07-11,M,Cali,Especializacion,Soltero,1,juliana1000000021@empresa.demo,3004375957
+1000000022,Alejandro,Jose,Lopez,Perez,1992-01-07,F,Cali,Tecnico,Union libre,2,alejandro1000000022@empresa.demo,3001118834
+1000000023,Sara,,Garcia,Ramirez,1986-05-16,F,Cali,Tecnologo,Soltero,1,sara1000000023@empresa.demo,3004239576
+1000000024,Diego,,Martinez,Torres,2001-11-30,M,Barranquilla,Tecnico,Soltero,1,diego1000000024@empresa.demo,3006893309
+1000000025,Manuela,Sofia,Perez,Lopez,1988-01-10,M,Bogota,Especializacion,Soltero,2,manuela1000000025@empresa.demo,3006948540
+1000000026,Samuel,Fernando,Rodriguez,Gomez,2001-04-17,F,Barranquilla,Especializacion,Union libre,1,samuel1000000026@empresa.demo,3005249913
+1000000027,Daniela,Alejandro,Vargas,Gomez,1980-07-16,M,Cali,Especializacion,Union libre,1,daniela1000000027@empresa.demo,3005422201
+1000000028,Santiago,Isabel,Torres,Vargas,1999-07-05,M,Bogota,Especializacion,Soltero,1,santiago1000000028@empresa.demo,3002079600
+1000000029,Lucia,Sofia,Hernandez,Lopez,1985-04-14,F,Barranquilla,Especializacion,Soltero,0,lucia1000000029@empresa.demo,3004503157
+1000000030,Martin,Alejandro,Perez,Garcia,1997-03-19,F,Barranquilla,Universitario,Casado,0,martin1000000030@empresa.demo,3009272874

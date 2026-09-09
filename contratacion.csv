@@ -1,0 +1,31 @@
+﻿cedula,fecha_postulacion,fecha_entrevista,fecha_ingreso,tipo_contrato,salario_inicial,experiencia_anios,fuente_reclutamiento,resultado_entrevista,periodo_prueba_dias,fecha_retiro,estado_empleado,motivo_retiro,duracion_empresa_meses
+1000000001,2024-01-23,2024-01-24,2024-02-01,Indefinido,1600000,0,LinkedIn,Regular,30,2028-07-09,Retirado,Mutuo acuerdo,54.0
+1000000002,2023-02-22,2023-04-18,2023-05-11,Indefinido,2500000,7,Portal empleo,Excelente,60,2025-12-26,Retirado,Despido,32.0
+1000000003,2024-06-06,2024-07-03,2024-07-18,Indefinido,3500000,2,Portal empleo,Regular,30,2028-05-28,Retirado,Renuncia,47.0
+1000000004,2024-01-19,2024-01-10,2024-02-05,Termino fijo,3000000,1,Pagina empresa,Bueno,30,,Activo,N/A,
+1000000005,2023-11-27,2023-12-18,2024-01-01,Obra o labor,1600000,0,LinkedIn,Regular,90,2025-09-22,Retirado,Terminacion contrato,21.0
+1000000006,2023-09-21,2023-10-31,2023-11-11,Indefinido,1600000,2,Pagina empresa,Bueno,30,,Activo,N/A,
+1000000007,2021-03-07,2021-04-20,2021-05-02,Indefinido,3000000,1,Portal empleo,Regular,60,2025-08-09,Retirado,Terminacion contrato,52.0
+1000000008,2022-02-11,2022-03-17,2022-04-12,Indefinido,2200000,1,Portal empleo,Regular,60,2026-11-17,Retirado,Renuncia,56.0
+1000000009,2024-05-04,2024-05-10,2024-05-23,Indefinido,3500000,5,LinkedIn,Regular,90,,Activo,N/A,
+1000000010,2021-10-25,2021-11-19,2021-11-27,Termino fijo,1800000,0,Universidad,Excelente,60,2026-11-01,Retirado,Despido,60.0
+1000000011,2021-03-17,2021-03-11,2021-03-29,Indefinido,2500000,1,Referido,Excelente,60,,Activo,N/A,
+1000000012,2024-10-19,2024-10-03,2024-10-28,Indefinido,1800000,5,Portal empleo,Bueno,60,2025-06-25,Retirado,Renuncia,8.0
+1000000013,2023-12-27,2024-01-28,2024-01-29,Indefinido,3000000,2,Portal empleo,Bueno,30,2027-07-12,Retirado,Despido,42.0
+1000000014,2023-04-01,2023-05-07,2023-05-22,Termino fijo,1600000,3,Universidad,Excelente,30,2027-12-27,Retirado,Terminacion contrato,56.0
+1000000015,2021-02-28,2021-05-03,2021-05-11,Indefinido,1600000,0,Universidad,Bueno,60,2022-05-06,Retirado,Despido,12.0
+1000000016,2024-06-06,2024-07-28,2024-08-25,Termino fijo,2500000,7,Pagina empresa,Excelente,90,2026-10-14,Retirado,Mutuo acuerdo,26.0
+1000000017,2022-12-22,2023-01-29,2023-02-09,Indefinido,1600000,6,Pagina empresa,Regular,30,,Activo,N/A,
+1000000018,2021-12-04,2021-11-28,2021-12-10,Termino fijo,1600000,6,Referido,Bueno,90,2025-07-22,Retirado,Terminacion contrato,44.0
+1000000019,2023-02-14,2023-03-05,2023-03-17,Termino fijo,2500000,2,Referido,Bueno,60,2025-02-04,Retirado,Mutuo acuerdo,23.0
+1000000020,2021-12-12,2022-01-17,2022-01-21,Indefinido,3500000,9,LinkedIn,Excelente,60,2022-10-18,Retirado,Renuncia,9.0
+1000000021,2024-03-21,2024-04-14,2024-04-30,Indefinido,3500000,9,Pagina empresa,Bueno,30,2026-10-17,Retirado,Renuncia,30.0
+1000000022,2023-07-15,2023-08-10,2023-08-14,Obra o labor,2500000,2,Portal empleo,Bueno,60,2025-03-06,Retirado,Renuncia,19.0
+1000000023,2021-08-18,2021-09-29,2021-10-04,Obra o labor,3000000,1,Pagina empresa,Regular,30,2026-04-11,Retirado,Despido,55.0
+1000000024,2024-02-28,2024-03-06,2024-03-30,Indefinido,1600000,0,Portal empleo,Bueno,60,2025-05-24,Retirado,Terminacion contrato,14.0
+1000000025,2022-01-22,2022-03-31,2022-04-05,Indefinido,1600000,6,Universidad,Regular,60,2024-10-21,Retirado,Renuncia,31.0
+1000000026,2024-08-06,2024-08-22,2024-08-30,Obra o labor,3000000,6,Pagina empresa,Excelente,30,2029-06-05,Retirado,Renuncia,58.0
+1000000027,2021-01-07,2021-01-12,2021-01-22,Termino fijo,3500000,1,Universidad,Bueno,30,,Activo,N/A,
+1000000028,2021-06-24,2021-08-24,2021-09-10,Indefinido,2200000,6,Referido,Regular,30,,Activo,N/A,
+1000000029,2022-12-07,2022-12-21,2023-01-18,Obra o labor,2200000,7,Referido,Excelente,60,,Activo,N/A,
+1000000030,2023-04-27,2023-04-11,2023-05-07,Indefinido,2200000,0,LinkedIn,Bueno,60,,Activo,N/A,
